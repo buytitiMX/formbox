@@ -1,0 +1,63 @@
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/style.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-buytiti-buytitiformbox {
+  background-color: #21759b;
+  color: #fff;
+  padding: 2px;
+}
+
+.form-boxclosed {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.option-box {
+  height: 3rem;
+  margin-bottom: 0.5rem;
+  width: 5rem;
+}
+
+.box-tel {
+  margin-bottom: 0.5rem;
+}
+
+.send-input {
+  width: 6rem;
+  margin: auto;
+}
+
+.imagen-titiform {
+  width: 20rem;
+  padding: 3rem;
+  background-image: linear-gradient(125deg, #744bcd 0, #5b3dc2 50%, #3d30b7 100%);
+  box-shadow: 0 20px 30px rgba(0, 0, 0, 0.19), 0 10px 10px rgba(0, 0, 0, 0.23);
+}
+
+.contenedor-titiform {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  margin-top: 3rem;
+  margin-bottom: 4rem !important;
+}
+
+.formulario-cajatiti {
+  padding: 4rem;
+  background-color: #f0f0f0;
+  box-shadow: 0 20px 30px rgba(0, 0, 0, 0.19), 0 10px 10px rgba(0, 0, 0, 0.23);
+}
+
+.img-titibuy {
+  margin-top: 3rem;
+}
+
+/*# sourceMappingURL=style-index.css.map*/
